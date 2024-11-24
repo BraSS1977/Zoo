@@ -1,0 +1,29 @@
+{
+    "animals": [
+        {
+            "type": "Bird",
+            "name": "\u041f\u043e\u043f\u0443\u0433\u0430\u0439",
+            "age": 2
+        },
+        {
+            "type": "Mammal",
+            "name": "\u041b\u0435\u0432",
+            "age": 5
+        },
+        {
+            "type": "Reptile",
+            "name": "\u0417\u043c\u0435\u044f",
+            "age": 3
+        }
+    ],
+    "staff": [
+        {
+            "type": "ZooKeeper",
+            "name": "\u0410\u043b\u0435\u043a\u0441\u0435\u0439"
+        },
+        {
+            "type": "Veterinarian",
+            "name": "\u041c\u0430\u0440\u0438\u044f"
+        }
+    ]
+}
